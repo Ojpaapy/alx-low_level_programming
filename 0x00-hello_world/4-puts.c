@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 *main- using puts for printing
 *return: 0 (Success)
