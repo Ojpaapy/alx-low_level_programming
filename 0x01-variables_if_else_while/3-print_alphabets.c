@@ -6,14 +6,14 @@
  */
 int main(void)
 {
-int lowercase = 'a'
-int uppwercase = 'A'
+int lowercase = 'a';
+int uppwercase = 'A';
 while (lowercase <= 'z')
 {
 putchar(lowercase);
 lowercase += 1;
 }
-while (uppercase <= 'Z'}
+while (uppercase <= 'Z')
 {
 putchar(uppercase);
 uppercase += 1;
