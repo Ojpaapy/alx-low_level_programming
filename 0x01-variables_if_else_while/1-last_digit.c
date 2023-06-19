@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - checking positive and negative
+ * main - last digits
  * Return: 0 (Success)
  */
 
