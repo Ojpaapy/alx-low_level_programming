@@ -12,14 +12,14 @@ int lowercase = 'a';
 int uppwercase = 'A';
 while (lowercase <= 'z')
 {
-putchar(lowercase);
+putchar (lowercase);
 lowercase += 1;
 }
 while (uppercase <= 'Z')
 {
-putchar(uppercase);
+putchar (uppercase);
 uppercase += 1;
 }
-putchar('\n');
+putchar ('\n');
 return (0);
 }
