@@ -14,11 +14,11 @@ srand(time(0));
 n = rand() - RAND_MAX / 2;
   if (n > 0)
   {
-    printf("%d is possitve\n", n);
+    printf("%d is possitve", n);
   }
   else if(n == 0)
   {
-    printf("%d is equal to zero\n", n);
+    printf("%d is equal to zero", n);
   }
   else
   {
