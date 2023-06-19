@@ -6,7 +6,6 @@
  * main - write lower & upper
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 int lowercase = 'a';
