@@ -4,7 +4,6 @@
  * main - -printing sizes available on cpu
  * Return: 0 (success)
  */
-
 int main(void)
 {
 char a;
