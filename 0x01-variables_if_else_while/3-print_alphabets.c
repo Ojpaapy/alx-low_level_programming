@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - write lower & upper
  * Return: 0 (Success)
