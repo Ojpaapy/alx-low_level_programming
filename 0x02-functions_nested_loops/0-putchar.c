@@ -5,7 +5,6 @@
  */
 int main(void)
 {
-putchar("_putchar");
-putchar("\n");
+printf("%s\n", "_putchar");
 return (0);
 }
