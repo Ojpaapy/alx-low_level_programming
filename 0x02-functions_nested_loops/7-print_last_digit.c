@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_digits-Prints last digits of a number
+ * print_last_digit - Prints last digits of a number
  * @n: The number to be tested.
  * Return: Absolute value of number or zero
  */
